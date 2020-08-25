@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+IOT y Web (Express/React)
+Arduino + JS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
